@@ -1,19 +1,19 @@
 <html>
 <body>
 
-<h1 align="center">Hi, I'm <a href="https://github.com/HoSHIZA">HoSHIZA</a> - Unity Developer</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/Hoxiee">Hoxiee</a> - .NET/C#/Unity Developer</h1>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HoSHIZA/HoSHIZA/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/HoSHIZA/HoSHIZA/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Hoxiee/Hoxiee/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Hoxiee/Hoxiee/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 <h2 align="center"> About Me </h2>
 <p align="center">
-  Unity developer, I create interactive projects and explore new technologies. I like to optimize processes and find creative solutions.
+  ...
 </p>
 
 
@@ -35,14 +35,14 @@
 
 <h2 align="center"> Contact Me </h2>
 <p align="center">
-    <a href="https://t.me/NeuroSHIZA"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram"/></a>
+    <a href="https://t.me/hoxiee_d"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram"/></a>
     <a href="https://discordapp.com/users/416631033836863488/"><img src="https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord"/></a>
-    <a href="mailto:hoshiza78@gmail.com"><img src="https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail"/></a>
-    <a href="https://www.youtube.com/@hoshiza"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
+    <a href="mailto:hoxiee.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail"/></a>
+    <a href="https://www.youtube.com/@hoxiee_d"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
     <a href="https://steamcommunity.com/id/hoshiza/"><img src="https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=steam"/></a>
 </p>
 
-<h2 align="center"> Github Profile stats </h2>
+<!-- <h2 align="center"> Github Profile stats </h2>
 <p align="center">
   <a href="https://github.com/HoSHIZA/">
     <img src="https://profile-counter.glitch.me/HoSHIZA/count.svg" alt="user_counter.exe"/>
@@ -53,14 +53,14 @@
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=HoSHIZA&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
     <img width="47.75%" src="https://streak-stats.demolab.com?user=HoSHIZA&theme=radical&hide_border=true"/>
   </a>
-</p>
+</p> -->
 <!-- <p align="center">
   <a href="https://github.com/HoSHIZA/">
     <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=HoSHIZA&layout=compact&theme=radical&hide_border=true&v=2"/>
   </a>
 </p> -->
 
-<img src="https://raw.githubusercontent.com/HoSHIZA/HoSHIZA/bfcdc929ee369c5f919a02d246ebf6fca2383846/.github/styling/waves.svg" width="100%" height="100">
+<img src="https://raw.githubusercontent.com/Hoxiee/Hoxiee/bfcdc929ee369c5f919a02d246ebf6fca2383846/.github/styling/waves.svg" width="100%" height="100">
   
 </body>
 </html>

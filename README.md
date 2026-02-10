@@ -1,69 +1,198 @@
-<html>
-<body>
-
-<h1 align="center">Hi, I'm <a href="https://github.com/HoSHIZA">HoSHIZA</a> - Unity Developer</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header" width="100%"/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HoSHIZA/HoSHIZA/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/HoSHIZA/HoSHIZA/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="github-contribution-grid-snake.svg" />
-  </picture>
+
+<!-- Header with Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Hoxiee+%F0%9F%91%8B;Full+Stack+%26+Desktop+Developer;Ex-Unity+%7C+Now+Web+%26+Desktop;.NET+%7C+ASP.NET+%7C+Nuxt" alt="Typing SVG" />
+
+<br/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Hoxiee/Hoxiee/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Hoxiee/Hoxiee/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
-<h2 align="center"> About Me </h2>
-<p align="center">
-  <a href="https://github.com/HoSHIZA/">
-    
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/HoSHIZA/">
-    <img src="https://profile-counter.glitch.me/HoSHIZA/count.svg" alt="user_counter.exe"/>
-  </a>
-</p>
+<br/>
 
-<h2 align="center"> Technology Stack </h2>
-<p align="center">
-  <a href="https://github.com/HoSHIZA/">
-    <img src="https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity" alt="badge.exe"/>
-    <img src="https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=954790" alt="badge.exe"/>
-    <img src="https://img.shields.io/badge/-GO-090909?style=for-the-badge&logo=go" alt="badge.exe"/>
-    <img src="https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=rust" alt="badge.exe"/>
-    <img src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python" alt="badge.exe"/>
-    <img src="https://img.shields.io/badge/-Markdown-090909?style=for-the-badge&logo=markdown" alt="badge.exe"/>
-    </br>
-    <img src="https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git" alt="badge.exe"/>
-    <img src="https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github" alt="badge.exe"/>
-    <img src="https://img.shields.io/badge/-VsCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=40ACF0" alt="badge.exe"/>
-    <img src="https://img.shields.io/badge/-Rider-090909?style=for-the-badge&logo=rider" alt="badge.exe"/>
-    <img src="https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=007DFF" alt="badge.exe"/>
-  </a>
-</p>
+<div align="center">
 
-<h2 align="center"> Contact Me </h2>
-<p align="center">
-    <a href="https://t.me/NeuroSHIZA"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram"/></a>
-    <a href="https://discordapp.com/users/416631033836863488/"><img src="https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord"/></a>
-    <a href="mailto:hoshiza78@gmail.com"><img src="https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail"/></a>
-    <a href="https://www.youtube.com/@hoshiza"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
-    <a href="https://steamcommunity.com/id/hoshiza/"><img src="https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=steam"/></a>
-</p>
+### 👨‍💻 About Me
 
-<h2 align="center"> Github Profile stats </h2>
-<p align="center">
-  <a href="https://github.com/HoSHIZA/">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=HoSHIZA&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
-    <img width="47.75%" src="https://streak-stats.demolab.com?user=HoSHIZA&theme=radical&hide_border=true"/>
-  </a>
-</p>
-<!-- <p align="center">
-  <a href="https://github.com/HoSHIZA/">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=HoSHIZA&layout=compact&theme=radical&hide_border=true&v=2"/>
-  </a>
-</p> -->
+Former Unity game developer who made the the leap to web and desktop development.  
+Now building modern web applications with **ASP.NET** and **Nuxt**.
 
-<img src="https://raw.githubusercontent.com/HoSHIZA/HoSHIZA/bfcdc929ee369c5f919a02d246ebf6fca2383846/.github/styling/waves.svg" width="100%" height="100">
-  
-</body>
-</html>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📫 Contact Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hoxiee_d)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/416631033836863488/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoxiee.dev@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hoxiee_d)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+#### Frontend
+<table>
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxt" title="" />
+<br>Nuxt
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" title="" />
+<br>Vue
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+<br>HTML5
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+<br>CSS3
+</td>
+
+</tr>
+</table>
+
+#### Backend
+<table>
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+<br>.NET
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+<br>C#
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+<br>Nginx
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+
+</tr>
+</table>
+
+#### Tools & Learning
+<table>
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
+<br>Unity
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=rider" width="48" height="48" alt="Rider" />
+<br>Rider
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=wasm" width="48" height="48" alt="WebAssembly" />
+<br>WebAssembly
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+<br>Rust
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- <div align="center">
+
+### 📊 GitHub Stats
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Hoxiee&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/> -->
+
+<div align="center">
+
+### 🎯 Currently
+
+**Learning** modern web & desktop development • **Building** full-stack applications  
+**Exploring** WebAssembly & Rust • **Improving** my backend skills with .NET
+
+*From game loops to event loops* 🎮 → 🌐
+
+</div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer" width="100%"/>

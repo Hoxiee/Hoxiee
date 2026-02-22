@@ -8,13 +8,13 @@
 <br/>
 
 <!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Hoxiee/Hoxiee/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Hoxiee/Hoxiee/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
-</picture>
+<!-- <picture> -->
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Hoxiee/Hoxiee/blob/output/github-contribution-grid-snake-dark.svg" /> -->
+  <!-- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Hoxiee/Hoxiee/blob/output/github-contribution-grid-snake.svg" /> -->
+  <!-- <img alt="github-snake" src="github-contribution-grid-snake.svg" /> -->
+<!-- </picture> -->
 
-</div>
+<!-- </div> -->
 
 <br/>
 
@@ -102,8 +102,13 @@ Now building modern web applications with **ASP.NET** and **Nuxt**.
 </td>
 
 <td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br>PostgreSQL
+<br>Postgre
 </td>
 
 <td align="center" width="100">
@@ -112,13 +117,8 @@ Now building modern web applications with **ASP.NET** and **Nuxt**.
 </td>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
+<img src="https://skillicons.dev/icons?i=wasm" width="48" height="48" alt="WebAssembly" />
+<br>WASM
 </td>
 
 </tr>
@@ -144,13 +144,13 @@ Now building modern web applications with **ASP.NET** and **Nuxt**.
 </td>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
 </td>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=wasm" width="48" height="48" alt="WebAssembly" />
-<br>WebAssembly
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
 </td>
 
 <td align="center" width="100">
